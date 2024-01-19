@@ -173,13 +173,6 @@
     height: 25px;
     padding: 10px;
     font-size: medium;
-    text-align: center;
-    border: none;
-    border-radius: 6px;
-    color: white;
-    background-color: #585764;
-    cursor: pointer;
-    box-shadow: 6px 6px 12px #b8b8b8, -6px -6px 12px #ffffff;
 
   }
 
@@ -188,10 +181,7 @@
     width: 136px;
     overflow-y: hidden;
     height: 18px;
-    background-color: #d0d0d0;
     padding: 14px;
-    border-radius: 10px;
-    box-shadow: 6px 6px 12px #b8b8b8, -6px -6px 12px #ffffff;
   }
 
   .output {
@@ -218,40 +208,17 @@
     padding: 10px;
     font-size: 16px;
     width: 90%;
-    border: solid #333333;
-    border-radius: 10px;
-    background-color: #e0e0e0;
+   
   }
 
   /* styles/TradePage.module.css */
 
   .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
     height: 680px;
     width: 100vw;
     overflow: hidden;
-    border-radius: 20px;
     padding: 20px;
-  }
-
-  .title {
-    font-size: 24px;
-    margin-bottom: 20px;
-    color: #333333;
-  }
-
-  .inputContainer {
-    margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .buttonContainer {
-    margin-bottom: 20px;
   }
 
   .buttonContainer2 {
@@ -269,13 +236,7 @@
   .button {
     padding: 10px;
     font-size: 16px;
-    border: none;
-    border-radius: 10px;
-    background-color: #4d4e4f;
-    color: #fff;
-    cursor: pointer;
-    box-shadow: 6px 6px 12px #b8b8b8, -6px -6px 12px #ffffff;
-  }
+   }
 
   .button2 {
     width: 116px;
@@ -283,13 +244,7 @@
     padding: 10px;
     font-size: medium;
     text-align: center;
-    border: none;
-    border-radius: 6px;
-    color: white;
-    background-color: #585764;
-    cursor: pointer;
-    box-shadow: 6px 6px 12px #b8b8b8, -6px -6px 12px #ffffff;
-
+  
   }
 
   .outputContainer {
